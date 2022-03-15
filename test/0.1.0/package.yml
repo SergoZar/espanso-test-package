@@ -1,0 +1,8 @@
+# cht package
+
+name: test
+parent: default
+
+matches:
+  - trigger: ":test"
+    replace: "Result"
